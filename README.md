@@ -54,7 +54,7 @@ under the hood:
 
 ### Electron
 
-- [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - fix choo's router in electron
+- [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
 
 ### Resources
 > :movie_camera: : videos
