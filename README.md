@@ -102,6 +102,7 @@ Other CLI templates
 
 ### Projects using choo
 
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 - [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
 - [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
