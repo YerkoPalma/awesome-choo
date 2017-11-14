@@ -102,7 +102,6 @@ Other CLI templates
 
 ### Projects using choo
 
-- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 - [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
 - [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
@@ -116,6 +115,7 @@ Other CLI templates
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 
 ### License
 
