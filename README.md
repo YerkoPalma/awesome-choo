@@ -85,6 +85,7 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 
 - [trainyard/template-basic](https://github.com/trainyard/template-basic)
 - [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
+- [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
 
 Other CLI templates
 - [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
@@ -115,6 +116,9 @@ Other CLI templates
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
+- [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
+- [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
+- [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
 
 ### License
 
