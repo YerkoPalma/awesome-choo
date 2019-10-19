@@ -122,6 +122,7 @@ Other CLI templates
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`.
 - [hyperamp](https://github.com/hypermodules/hyperamp) - Humble music player.
+- [Resonate](https://github.com/resonatecoop/stream2own) - Co-op music streaming app and modules
 
 ### License
 
